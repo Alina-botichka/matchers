@@ -3,6 +3,7 @@ export default {
   transform: {},
   collectCoverageFrom: [
     'src/js/health.js',
+    'src/js/sort.js',
     '!**/node_modules/**',
   ],
   coverageThreshold: {
