@@ -1,4 +1,4 @@
-[![CI](https://github.com/Alina-botichka/matchers/actions/workflows/ci.yml/badge.svg)](https://github.com/Alina-botichka/matchers/actions/workflows/ci.yml)
+[![CI](https://github.com/Alina-botichka/matchers/actions/workflows/ci.yml/badge.svg)](https://github.com/Alina-botichka/matchers/actions/workflows/ci.yml) 
 
 # Game Health Status
 
